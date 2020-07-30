@@ -4,3 +4,5 @@ github:
 #title: logo.png
 logo: /assets/images/logo.png
 href: https://juliamsmith.github.io/webtest/#content #not sure if content part matters!
+plugins:
+  - jemoji 
